@@ -1,0 +1,11 @@
+Url = file:///C:/Users/HP/Desktop/Website.html
+ScrollText = html/body/marquee/font
+FacebookLink = Click here for Facebook
+FN= Fname
+LN= Lname
+EML=.//*[@id='EM']
+AGEML=.//*[@id='AGE']
+PW=Pword
+MNTH=html/body/select[1]
+DY=html/body/select[2]
+YR=html/body/select[3]

@@ -1,0 +1,12 @@
+WebSite=https://www.facebook.com
+FN = firstname
+LN = lastname
+EML= "reg_email__" 
+AGM = "reg_email_confirmation__"
+PW ="u_0_q"
+MNTH="month"
+DY="day"
+YR="year"
+SX="u_0_c"
+
+
